@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|c:\\users\\louis\\source\\repos\\herog\\herogame\\herogame\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|solutionrelative:herogame\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|c:\\users\\louis\\source\\repos\\herog\\herogame\\herogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|solutionrelative:herogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|c:\\users\\louis\\source\\repos\\herog\\herogame\\herogame\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|solutionrelative:herogame\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|c:\\users\\louis\\source\\repos\\herog\\herogame\\herogame\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|solutionrelative:herogame\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|c:\\users\\louis\\source\\repos\\herog\\herogame\\herogame\\emptytile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EA163-C697-47A9-8224-903C0E5344B2}|HeroGame\\HeroGame.csproj|solutionrelative:herogame\\emptytile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Tile.cs",
+              "RelativeDocumentMoniker": "HeroGame\\Tile.cs",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Tile.cs",
+              "RelativeToolTip": "HeroGame\\Tile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:18.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Program.cs",
+              "RelativeDocumentMoniker": "HeroGame\\Program.cs",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Program.cs",
+              "RelativeToolTip": "HeroGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Position.cs",
+              "RelativeDocumentMoniker": "HeroGame\\Position.cs",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Position.cs",
+              "RelativeToolTip": "HeroGame\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Level.cs",
+              "RelativeDocumentMoniker": "HeroGame\\Level.cs",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\Level.cs",
+              "RelativeToolTip": "HeroGame\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmptyTile.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\EmptyTile.cs",
+              "RelativeDocumentMoniker": "HeroGame\\EmptyTile.cs",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\HeroG\\HeroGame\\HeroGame\\EmptyTile.cs",
+              "RelativeToolTip": "HeroGame\\EmptyTile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:07.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
