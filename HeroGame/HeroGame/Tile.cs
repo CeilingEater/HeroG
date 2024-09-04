@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace HeroGame
 {
 
-    //test3
+    //test
     internal abstract class Tile
     {
         private int xPosition;
